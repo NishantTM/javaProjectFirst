@@ -62,5 +62,15 @@ public class Calculator {
         }
     }
 }
+
+    public double calculate(double a, double b) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'calculate'");
+    }
+
+    public String add(double i, double j) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'add'");
+    }
     
 }
